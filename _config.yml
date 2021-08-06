@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-  title                    : "Yajie Duan"
+title                    : "Yajie Duan"
 title_separator          : "-"
 name                     : &name "Yajie Duan"
 description              : &description "Ph.D. Candidate in Statistics"
