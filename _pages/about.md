@@ -26,7 +26,7 @@ Experience
 * Visiting student in Vancouver Summer Program, [University of British Columbia](https://www.ubc.ca/), 2016 (Courses: International Politics, International Trade and Financial Markets)
 * Vice President of Undergraduate Students' Union, Southern University of Science and Technology, 2017
 * Research Assistant in Collaborative Center for Statistics in Science, Yale University, 2018
-* Statistical Research Assistant in [the Cardiovascular Institute of New Jersey](https://rwjms.rutgers.edu/institutes/cvinj/overview), Rutgers University, 2021
+* Statistical Research Assistant in [Cardiovascular Institute of New Jersey](https://rwjms.rutgers.edu/institutes/cvinj/overview), Rutgers University, 2021
 
 
 Selected Awards and Honors 
