@@ -4,9 +4,11 @@ collection: talks
 type: "Big data analysis and visualization"
 permalink: /talks/2021-research-1-1
 venue: "Dept. of Statistics, Rutgers University"
-date: 2021
-
 ---
+
+Date
+======
+01/2021-Present
 
 Advisor
 ======
