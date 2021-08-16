@@ -1,4 +1,3 @@
-
 ---
 title: "Projection Pursuit Indices and Data Visualization Methods for Big Data"
 collection: talks
