@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 
-## Projection Pursuit Indices and Data Visualization Methods for Big Data
+##  Advisor: [Professor Guoliang Tian](https://faculty.sustech.edu.cn/tiangl/en/), Southern University of Science and Technology
 
-* Basic config options: _config.yml
+*	Conducted likelihood ratio tests, score tests, and Wald tests, for the homogeneity of two ZOIP populations
+*	Estimated unknown parameters within the test statistics by EM algorithm and its extension
+*	Conducted simulation studies to compare the proposed tests by checking error rate and power for different sample sizes; illustrated with three real data sets
+
