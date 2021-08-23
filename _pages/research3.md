@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Advisor: [Professor Javier Cabrera](https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/370-javier-cabrera)
+## Advisor: [Professor Javier Cabrera](https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/370-javier-cabrera), Rutgers University
 
 * Proposed a novel two-stage Deming regression model that combines an arbitrary prediction model and Deming regression model. 
 * Developed an assessment system for the risks of stroke vs. bleeding taking patient’s personal fears of outcomes into account, with the proposed two-stage regression model.
