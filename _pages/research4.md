@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Advisor: [Guoliang Tian](https://faculty.sustech.edu.cn/tiangl/en/)
+## Advisor: [Professor Guoliang Tian](https://faculty.sustech.edu.cn/tiangl/en/)
 
 *	Proposed a new shifted multivariate asymmetric Laplace distribution based on normal variance mixture model
 *	Derived the probability density function and other statistical properties using stochastic representation; conducted various methods of parameter estimation and hypothesis testing of independence among components
