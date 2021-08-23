@@ -1,6 +1,6 @@
 ---
 permalink: /research7/
-title: "Phage Plaque Count Estimation by Dilution Series Data"
+title: "Estimation of Phage Plaque Count by Dilution Series Data"
 author_profile: true
 redirect_from: 
   - /md/
