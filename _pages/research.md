@@ -9,13 +9,13 @@ redirect_from:
 
 
 ## [Projection Pursuit Indices and Data Visualization Methods for Big Data](https://yajie1020.github.io/yajieduan/research1/)
-> 09/2020-Present, Rutgers University
+> 01/2021-Present, Rutgers University
 
 A novel Projection Pursuit methodology for large multi-dimensional datasets with new static and dynamic graphic tools. 
 
 
 ## [Generative Modeling of Protein Loop Backbones](https://yajie1020.github.io/yajieduan/research2/)
-> 09/2020-Present, Rutgers University
+> 10/2020-Present, Rutgers University
 
 An efficient deep learning algorithm using recurrent neural network models to generate novel and realistic protein loop backbone structures, based on a database of structurally homologous loops for HCV protease.
 
