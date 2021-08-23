@@ -30,7 +30,7 @@ Experience
 
 
 Selected Awards and Honors 
-------
+======
 * First-class University Scholarship for Outstanding Undergraduate (top 3% in 931 undergraduates), SUSTech, 2016
 * First Prize in the 5th National Data Mining Competition in China (top 10 in 2542 teams), 2017
 * University Award for Outstanding Undergraduate Thesis (top 3% in 931 undergraduates), SUSTech, 2019
