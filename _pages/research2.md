@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Advisor: [Professor Sijian Wang](https://stat.rutgers.edu/people-pages/faculty/people/130-faculty/381-sijan-wang), [Professor Sagar Khare](https://chem.rutgers.edu/people/faculty-bio/164-khare-sagar-d), [Professor Guanyang Wang](https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/572-guanyang-wang)
+## Advisor: [Professor Sijian Wang](https://stat.rutgers.edu/people-pages/faculty/people/130-faculty/381-sijan-wang), [Professor Sagar Khare](https://chem.rutgers.edu/people/faculty-bio/164-khare-sagar-d), [Professor Guanyang Wang](https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/572-guanyang-wang), Rutgers University
 
 
 * Built an efficent deep learning algorithm to generate novel and realistic protein loop backbone structures based on a database of structurally homologous loops for HCV protease
