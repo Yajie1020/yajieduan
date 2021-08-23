@@ -1,16 +1,14 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
+redirect_from: 
+  - /md/
+  - /publications.html
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+## [Projection Pursuit Indices and Data Visualization Methods for Big Data](https://yajie1020.github.io/yajieduan/research1/)
+> 01/2021-Present, Rutgers University
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+A novel Projection Pursuit methodology for large multi-dimensional datasets with new static and dynamic graphic tools. 
