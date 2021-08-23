@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Projection Pursuit Indices and Data Visualization Methods for Big Data
+## [Projection Pursuit Indices and Data Visualization Methods for Big Data](https://yajie1020.github.io/yajieduan/researchfile/research1)
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
