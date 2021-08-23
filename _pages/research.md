@@ -27,7 +27,7 @@ A novel two-stage Deming regression model with applications to patient-centered 
 
 
 ## [Type II Shifted Multivariate Asymmetric Laplace Distribution](https://yajie1020.github.io/yajieduan/researchfile/research4)
-> 12/2018-05/2019
+> 12/2018-05/2019, Southern University of Science and Technology
 
 A new shifted multivariate asymmetric Laplace distribution based on normal variance mixture model with properties, parameter estimation methods and hypothesis testing.
 
@@ -39,7 +39,7 @@ Undergraduate research studies in Biostatistics.
 
 
 ## [Hypothesis Testing for Homogeneity of Two Zero-and-one-inflated Poisson Populations](https://yajie1020.github.io/yajieduan/researchfile/research6)
-> 06/2018-03/2019
+> 06/2018-03/2019, Southern University of Science and Technology
 
 Newly proposed likelihood ratio tests, score tests, and Wald tests, for the homogeneity of two ZOIP populations with parameter estimation of test statistics.
 
