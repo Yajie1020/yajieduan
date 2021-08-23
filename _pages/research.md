@@ -21,7 +21,7 @@ An efficient deep learning algorithm using recurrent neural network models to ge
 
 
 ## [Patient-Centered Assessment of Risk of Stroke vs. Bleeding](https://yajie1020.github.io/yajieduan/research3/)
-> 04/2021-Present, Rutgers University
+> 04/2021-Present, [Cardiovascular Institute of New Jersey](https://rwjms.rutgers.edu/institutes/cvinj/overview), Rutgers University
 
 A novel two-stage Deming regression model with applications to patient-centered assessment of risks of stroke vs. bleeding. 
 
