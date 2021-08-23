@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Locations of key files/directories
+## Projection Pursuit Indices and Data Visualization Methods for Big Data
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
