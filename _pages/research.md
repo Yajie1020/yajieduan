@@ -27,7 +27,7 @@ A novel two-stage Deming regression model with applications to patient-centered 
 
 
 ## [Estimation of Phage Plaque Count by Dilution Series Data](https://yajie1020.github.io/yajieduan/research7/)
-> 07/2021-Present, [Janssen Research & Development (J&J)](https://www.jnj.com/tag/janssen-research-development) and Rutgers University
+> 07/2021-Present, [Janssen Research & Development (J&J) ](https://www.jnj.com/tag/janssen-research-development)and Rutgers University
 
 A new estimation method for phage plaque count by dilution series data of a virus stock in a plaque assay.
 
