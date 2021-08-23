@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 
-## Projection Pursuit Indices and Data Visualization Methods for Big Data
+## Advisor: [Professor Javier Cabrera](https://statistics.rutgers.edu/people-pages/faculty/people/130-faculty/370-javier-cabrera)
 
-* Basic config options: _config.yml
+* Proposed a novel two-stage Deming regression model that combines an arbitrary prediction model and Deming regression model. 
+* Developed an assessment system for the risks of stroke vs. bleeding taking patient’s personal fears of outcomes into account, with the proposed two-stage regression model.
+* Implemented an algorithm that produces a graph with two regions corresponding to whether the patient should take anticoagulants based on the predicted risks of stroke and bleeding and the patient’s fears of bleeding
+* Built a web application for physicians to help prescribe anticoagulants based on the proposed methodology
+
