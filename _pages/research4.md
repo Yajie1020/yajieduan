@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 
-## Projection Pursuit Indices and Data Visualization Methods for Big Data
+## Advisor: [Guoliang Tian](https://faculty.sustech.edu.cn/tiangl/en/)
 
-* Basic config options: _config.yml
+*	Proposed a new shifted multivariate asymmetric Laplace distribution based on normal variance mixture model
+*	Derived the probability density function and other statistical properties using stochastic representation; conducted various methods of parameter estimation and hypothesis testing of independence among components
+*	Conducted simulation studies to evaluate proposed distribution and methods; illustrated with two real datasets
+
