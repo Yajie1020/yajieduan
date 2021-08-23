@@ -26,6 +26,12 @@ An efficient deep learning algorithm using recurrent neural network models to ge
 A novel two-stage Deming regression model with applications to patient-centered assessment of risks of stroke vs. bleeding. 
 
 
+## [Phage Plaque Count Estimation by Dilution Series Data](https://yajie1020.github.io/yajieduan/research7/)
+> 07/2021-Present, [Janssen Research & Development (J&J)](https://www.jnj.com/tag/janssen-research-development) and Rutgers University
+
+A new phage plaque count estimation method by dilution series data of a virus stock in a plaque assay.
+
+
 ## [Type II Shifted Multivariate Asymmetric Laplace Distribution](https://yajie1020.github.io/yajieduan/research4/)
 > 12/2018-05/2019, Southern University of Science and Technology
 
