@@ -7,8 +7,8 @@ redirect_from:
   - /teaching.html
 ---
 
-I am/was a Teaching Assistant for the following undergraduate courses at Rutgers University:
 
+I am/was a Teaching Assistant for the following undergraduate courses at Rutgers University:
 ## [Statistics I (01:960:211)](https://statistics.rutgers.edu/course-descriptions/505-01-960-211-212-statistics-i-ii-3-3)
 > Fall 2019, Spring 2020, Spring 2021
 
