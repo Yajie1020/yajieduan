@@ -27,6 +27,7 @@ Experience
 * Vice President of Undergraduate Students' Union, Southern University of Science and Technology, 2017
 * Research Assistant in Collaborative Center for Statistics in Science, Yale University, 2018
 * Statistical Research Assistant in [Cardiovascular Institute of New Jersey](https://rwjms.rutgers.edu/institutes/cvinj/overview), Rutgers University, 2021
+* Student Statistical Consultant  in [Office of Statistical Consulting](https://www.stat.rutgers.edu/osc-home), Rutgers University, 2021
 
 
 Selected Awards and Honors 
