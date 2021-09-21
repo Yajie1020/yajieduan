@@ -15,19 +15,19 @@ A novel Projection Pursuit methodology for large multi-dimensional datasets with
 
 
 ## [Generative Modeling of Protein Loop Backbones](https://yajie1020.github.io/yajieduan/research2/)
-> 10/2020-Present, Rutgers University
+> 12/2020-Present, Rutgers University
 
 An efficient deep learning algorithm using recurrent neural network models to generate novel and realistic protein loop backbone structures, based on a database of structurally homologous loops for HCV protease.
 
 
 ## [Patient-Centered Assessment of Risk of Stroke vs. Bleeding](https://yajie1020.github.io/yajieduan/research3/)
-> 04/2021-Present, [Cardiovascular Institute of New Jersey](https://rwjms.rutgers.edu/institutes/cvinj/overview), Rutgers University
+> 04/2021-09/2021, [Cardiovascular Institute of New Jersey](https://rwjms.rutgers.edu/institutes/cvinj/overview), Rutgers University
 
 A novel two-stage Deming regression model with applications to patient-centered assessment of risks of stroke vs. bleeding. 
 
 
-## [Estimation of Phage Plaque Count by Dilution Series Data](https://yajie1020.github.io/yajieduan/research7/)
-> 07/2021-Present, [Janssen Research & Development (J&J) ](https://www.jnj.com/tag/janssen-research-development)and Rutgers University
+## [Novel Estimation Methods for Particle Count by Dilution Series Data](https://yajie1020.github.io/yajieduan/research7/)
+> 06/2021-Present, [Janssen Research & Development (J&J) ](https://www.jnj.com/tag/janssen-research-development)and Rutgers University
 
 A new estimation method for phage plaque count by dilution series data of a virus stock in a plaque assay.
 
