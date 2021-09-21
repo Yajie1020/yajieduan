@@ -19,7 +19,7 @@ Before coming to Rutgers, I earned my BSc degree from [Southern University of Sc
 Education
 ======
 * B.S. in Statistics, Southern University of Science and Technology (SUSTech), 2019
-* Ph.D. in Statistics, Rutgers University, 2024(expected)
+* Ph.D. in Statistics, Rutgers University, 2024(Expected)
 
 Experience
 ======
