@@ -29,7 +29,7 @@ A novel two-stage Deming regression model with applications to patient-centered 
 ## [Novel Estimation Methods for Particle Count by Dilution Series Data](https://yajie1020.github.io/yajieduan/research7/)
 > 06/2021-Present, [Janssen Research & Development (J&J) ](https://www.jnj.com/tag/janssen-research-development)and Rutgers University
 
-A new estimation method for particle count by dilution series data of a solution stock in a particle assay.
+New estimation methods for particle count by dilution series data of a solution stock in a particle assay.
 
 
 ## [Type II Shifted Multivariate Asymmetric Laplace Distribution](https://yajie1020.github.io/yajieduan/research4/)
