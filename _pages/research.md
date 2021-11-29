@@ -29,7 +29,7 @@ An efficient deep learning algorithm using recurrent neural network models to ge
 New estimation methods for particle concentration of a solution by dilution series data in a particle assay.
 
 ## [Patient-Centered Assessment of Risk of Stroke vs. Bleeding](https://yajie1020.github.io/yajieduan/research3/)
-> 04/2021-09/2021, [Cardiovascular Institute of New Jersey](https://rwjms.rutgers.edu/institutes/cvinj/overview), Rutgers University
+> 04/2021-09/2021, [Cardiovascular Institute of New Jersey](https://rwjms.rutgers.edu/institutes/cvinj/overview) and Rutgers University
 
 A novel two-stage Deming regression model with applications to patient-centered assessment of risks of stroke vs. bleeding. 
 
