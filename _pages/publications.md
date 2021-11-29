@@ -7,12 +7,12 @@ redirect_from:
   - /publications.html
 ---
 
-*	**Y. Duan** and J. Cabrera. <var>“A New Projection Pursuit Index for Big Data”</var>. To be submitted.
-*	D. Sargsyan, **Y. Duan**, J. Cabrera, C. Ananth, J. Kostis and WJ. Kostis. <var>“Patient-Centered Assessment of One Year Risk of Stroke vs. Bleeding”</var>.  Submitted to American Heart Association Scientific Sessions 2021. 
-* **Y. Duan**, J. Cabrera, D. Sargsyan, C. Ananth, J. Kostis and WJ. Kostis. <var>“A two-stage Deming regression model with applications to multiple disease risk assessment”</var>. To be submitted.
-* **Y. Duan**, J. Cabrera, D. Sargsyan, C. Lin. <var>“Novel Estimation Methods for Particle Count by Dilution Series Data”</var>. To be submitted.
-*	**Y. Duan**, C. Lu, C. Thai, S. Wang, S. Khare. <var>“Generative Modeling of Loop Backbones for HCV protease using LSTM and sequence-to-sequence Variational Autoencoder”</var>. In Progress.
-*	D. Amaratunga, J. Cabrera, **Y. Duan**, D. Ghosh, M. Katehakis, C. Lin, J. Wang, W. Wang, A. Yadav. <var>“Bootstrap-based confidence and prediction intervals for forecasting COVID cases and deaths”</var>. Under revision. 
-*	**Y. Duan**, X. Wei, D. Zhang and G. Tian. <var>“Hypothesis Testing for the Homogeneity of Two Zero-and-one-inflated Poisson Populations”</var>. Submitted to Journal of Statistical Computation and Simulation.
-*	**Y. Duan** and G. Tian. <var>“Type II Shifted Multivariate Asymmetric Laplace Distribution based on Mixture of Normal Distribution”</var>. Under revision. 
-
+*	**Duan, Y.** & Cabrera, J. A New Projection Pursuit Index for Big Data. <var>Submitted to Statistics and Computing.</var>
+*	Sargsyan, D., **Duan, Y.**, Kostis, W. J., Ananth, C., Kostis, J. B., Cabrera, J., & Myocardial Infarction Data Acquisition System (MIDAS) Study Group. (2021). Patient-centered Assessment of Risk of Stroke vs. Bleeding in Patients with Atrial Fibrillation. <var>Circulation, 144</var>(Suppl_1), A13362-A13362.
+*	**Duan, Y.**, Cabrera, J., Sargsyan, D., Anath, C., Kostis, J.B. & Kostis, W.J. A Two-stage Deming Regression Model with Applications to Multiple Disease Risk Assessment. <var>Under revision.</var>
+*	**Duan, Y.**, Lu, C., Thai, C., Wang, G., Wang, S. & Khare, S. Generative Modeling of Loop Backbones for HCV protease using LSTM and sequence-to-sequence Variational Autoencoder. <var>In Progress.</var>
+*	**Duan, Y.**, Wei, X., Zhang, D. & Tian, G. Hypothesis Testing for the Homogeneity of Two Zero-and-one-inflated Poisson Population. <var>Submitted to Journal of Statistical Computation and Simulation.</var>
+*	**Duan, Y.** & Tian, G. Type II Shifted Multivariate Asymmetric Laplace Distribution based on Mixture of Normal Distribution. <var>Under revision.</var>
+*	**Duan, Y.**, Cabrera, J., Sargsyan, D. & Lin, C. Particle Concentration Estimation in Dilution Series Experiments. <var>Submitted to Naval Research Logistics.</var></var>
+*	Amaratunga, D., Cabrera, J., **Duan, Y.**, Ghosh, D., Katehakis, M., Lin, C., Wang, J., Wang, W. & Yadav, A. Bootstrap-based Confidence and Prediction Intervals for Forecasting COVID Cases and Deaths. <var>Under revision.</var>
+*	**Duan, Y.**, Wang, J., Cabrera, J., Amaratunga, D., Katehakis, M. & Lin, C. Deep Learning Models with Adaptive Techniques for COVID-19 Daily Cases and Deaths Prediction. <var>In Progress</var>
