@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](http://yajie1020.github.io/yajieduan/files/CV_YajieDuan.pdf)
+[Download my CV here](http://yajie1020.github.io/yajieduan/files/CV_YajieDUAN_rutgers.pdf)
