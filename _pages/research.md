@@ -9,29 +9,29 @@ redirect_from:
 
 
 ## [Projection Pursuit Indices and Data Visualization Methods for Big Data](https://yajie1020.github.io/yajieduan/research1/)
-> 11/2020-Present, Rutgers University
+> 12/2020-Present, Rutgers University
 
 A novel Projection Pursuit methodology for large multi-dimensional datasets with new static and dynamic graphic tools. 
 
-## [Deep Learning Models for COVID-19 Prediction](https://yajie1020.github.io/yajieduan/research8/)
-> 09/2021-Present, Rutgers University
-
-A new methodology using deep learning models to forecast both COVID-19 daily cases and deaths with confidence and prediction intervals.
-
-## [Generative Modeling of Protein Loop Backbones](https://yajie1020.github.io/yajieduan/research2/)
-> 12/2020-Present, Rutgers University
-
-An efficient deep learning algorithm using recurrent neural network models to generate novel and realistic protein loop backbone structures, based on a database of structurally homologous loops for HCV protease.
-
-## [Novel Estimation Methods for Particle Concentration by Dilution Series Data](https://yajie1020.github.io/yajieduan/research7/)
-> 07/2021-11/2021, [Janssen Research & Development (J&J) ](https://www.jnj.com/tag/janssen-research-development)and Rutgers University
+## [Novel Estimation Methodology for Particle Concentration by Dilution Series Data](https://yajie1020.github.io/yajieduan/research7/)
+> 09/2021-Present, [Janssen Research & Development (J&J) ](https://www.jnj.com/tag/janssen-research-development)and Rutgers University
 
 New estimation methods for particle concentration of a solution by dilution series data in a particle assay.
+
+## [Deep Learning Models for COVID-19 Prediction](https://yajie1020.github.io/yajieduan/research8/)
+> 09/2021-07/2022, Rutgers University
+
+A new methodology using deep learning models to forecast both COVID-19 daily cases and deaths with confidence and prediction intervals.
 
 ## [Patient-Centered Assessment of Risk of Stroke vs. Bleeding](https://yajie1020.github.io/yajieduan/research3/)
 > 04/2021-09/2021, [Cardiovascular Institute of New Jersey](https://rwjms.rutgers.edu/institutes/cvinj/overview) and Rutgers University
 
-A novel two-stage Deming regression model with applications to patient-centered assessment of risks of stroke vs. bleeding. 
+A novel two-stage Deming regression model with applications to patient-centered assessment of risks of stroke vs. bleeding.
+
+## [Generative Modeling of Protein Loop Backbones](https://yajie1020.github.io/yajieduan/research2/)
+> 10/2020-05/2022, Rutgers University
+
+An efficient deep learning algorithm using recurrent neural network models to generate novel and realistic protein loop backbone structures, based on a database of structurally homologous loops for HCV protease.
 
 ## [Type II Shifted Multivariate Asymmetric Laplace Distribution](https://yajie1020.github.io/yajieduan/research4/)
 > 12/2018-05/2019, Southern University of Science and Technology
