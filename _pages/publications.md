@@ -17,6 +17,6 @@ redirect_from:
 *	**Duan, Y.**, Lu, C., Thai, C., Wang, G., Wang, S. & Khare, S. Generative Modeling of Loop Backbones for HCV protease using sequence-to-sequence Variational Autoencoder with attention mechanism. <var>Under revision.</var>
 *	**Duan, Y.**, Cabrera, J. & Emir, B. twopartm: Two-Part Model with Marginal Effects in R. <var>Under review by The R journal.</var>
 *	**Duan, Y.**, Wei, X., Zhang, D. & Tian, G. Hypothesis Testing for the Homogeneity of Two Zero-and-one-inflated Poisson Population. <var>Submitted to Journal of Statistical Computation and Simulation.</var>
-*	*	**Duan, Y.** & Tian, G. Type II Shifted Multivariate Asymmetric Laplace Distribution based on Mixture of Normal Distribution. <var>Under revision.</var>
+*	**Duan, Y.** & Tian, G. Type II Shifted Multivariate Asymmetric Laplace Distribution based on Mixture of Normal Distribution. <var>Under revision.</var>
 
 
