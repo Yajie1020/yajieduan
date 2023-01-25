@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 *	Sargsyan, D., **Duan, Y.**, Kostis, W. J., Ananth, C., Kostis, J. B., Cabrera, J., & Myocardial Infarction Data Acquisition System (MIDAS) Study Group. (2021). Patient-centered Assessment of Risk of Stroke vs. Bleeding in Patients with Atrial Fibrillation. <var>Circulation, 144</var>(Suppl_1), A13362-A13362.
+*	*	**Duan, Y.**, Cabrera, J. & Emir, B. (2022).twopartm: Two-Part Model with Marginal Effects. <var>R package version 0.1.0.</var> https://CRAN.R-project.org/package=twopartm
 *	Lin, C., **Duan, Y.**, Sargsyan, D., Cabrera, J., Livingston, C., Vogel, R., Hartman, J., Das, M., Talloen, W., Geys, H., Kanoulas, E. & Mohanty, S.  Automated Spot Counting in Microbiology. <var>Accepted by IEEE/ACM Transactions on Computational Biology and Bioinformatics.</var>
 *	**Duan, Y.**, Cabrera, J., Sargsyan, D. & Lin, C. Particle Concentration Estimation in Dilution Series Experiments. <var>Accepted by Naval Research Logistics.</var>
 *	**Duan, Y.** & Cabrera, J. A New Projection Pursuit Index for Big Data. <var>Submitted to Statistics and Computing.</var>
