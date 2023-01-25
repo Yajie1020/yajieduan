@@ -27,7 +27,7 @@ Experience
 * Vice President of Undergraduate Students' Union, Southern University of Science and Technology, 2017
 * Research Assistant in the [Collaborative Center for Statistics in Science](https://ysph.yale.edu/c2s2/), Yale University, 2018
 * Statistical Research Assistant in the [Cardiovascular Institute of New Jersey](https://www.acc.org/membership/sections-and-councils/fellows-in-training-section/section-updates/2019/04/16/12/49/conversations-with-cardiologists-kostis), [Rutgers RWJ medical school](https://rwjms.rutgers.edu/departments-institutes), 2021
-* Student Statistical Consultant in the [Office of Statistical Consulting](https://www.stat.rutgers.edu/osc-home), Rutgers University, 2021
+* Student Statistical Consultant in the [Office of Statistical Consulting](https://statistics.rutgers.edu/osc-home), Rutgers University, 2021
 * Biostatistics Summer Intern in the [Research & Development Center](https://www.pfizer.com/science/centers), [Pfizer Inc.](https://www.pfizer.com/), 2022 
 
 Selected Awards and Honors 
