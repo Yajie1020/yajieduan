@@ -12,6 +12,6 @@ redirect_from:
 
 * Proposed new [Projection Pursuit (PP)](https://en.wikipedia.org/wiki/Projection_pursuit) indices that can be used for extremely large multi-dimensional data sets, using a data compression method called “data nuggets” that reduces a large dataset into a smaller collection of data nuggets that maintain the data structure. They are used to find interesting hidden sturctures such as clusters, outliers and other linear and non-linear structrues.
 * Developed static and dynamic graphical tools using proposed PP indices to visualize large multivariate data.
-* Implemented guided tours to generate interactive and efficient visualization for bigdata and detect data structures
+* Implementing guided tours to generate interactive and efficient visualization for bigdata and detect data structures
 * Building packages in R and Python to implement proposed data visualization and analysis method for large multivariate data sets.
 * Developing differential PP indices to detect changes in distributions or clusters of big data
