@@ -17,3 +17,9 @@ I am/was a Teaching Assistant for the following undergraduate courses at Rutgers
 
 ## [Basic Statistics for Research (01:960:401)](https://statistics.rutgers.edu/course-descriptions/515-01-960-401-basic-statistics-for-research-3)
 > Fall 2020, Spring 2021
+
+## [Statistical Inference for Data Science (01:960:291)](https://statistics.rutgers.edu/course-descriptions/611-01-960-291-statistical-inference-for-data-science-3)
+> Spring 2022, Spring 2023
+
+
+
