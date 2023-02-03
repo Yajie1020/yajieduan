@@ -30,6 +30,13 @@ Experience
 * Student Statistical Consultant in the [Office of Statistical Consulting](https://statistics.rutgers.edu/osc-home), Rutgers University, 2021
 * Biostatistics Summer Intern in the [Research & Development Center](https://www.pfizer.com/science/centers), [Pfizer Inc.](https://www.pfizer.com/), 2022 
 
+Presentations
+======
+* Oral presentation: “A New Projection PursuitIndex for Big Data.” INFORMS 2022 Annual Meeting (October 2022, Indianapolis, IN, USA)
+* Oral presentation: “COVID-19 Daily Case and Death Prediction using Deep Learning Models with Time-lag Features.” 32nd European Conference on Operational Research (EURO 2022) (July 2022, Espoo, Finland)
+* Poster presentation: “Particle Count Estimation in Dilution Series Experiments.” 2022 Conference on Advances in Bayesian and Frequentist Statistics (April 2022, Piscataway, NJ, USA)
+
+
 Selected Awards and Honors 
 ======
 * First-class University Scholarship for Outstanding Undergraduate (top 2% in 931 undergraduates), SUSTech, 2016
